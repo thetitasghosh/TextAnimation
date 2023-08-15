@@ -37,7 +37,7 @@ const page = () => {
           start: "top 90%",
           end: `+=${window.innerHeight / 1.5}`,
           scrub: 2,
-          markers: true,
+          // markers: true,
         },
         opacity: 1,
         stagger:0.1,
